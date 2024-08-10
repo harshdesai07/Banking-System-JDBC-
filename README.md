@@ -14,4 +14,4 @@ This project is a simple banking system developed using Java and JDBC (Java Data
 1. Java: Core programming language used for implementing the business logic.
 2. JDBC: Java Database Connectivity API used to interact with the database.
 3. MySQL: The relational database management system used for storing banking data.
-4. Maven: Used for managing project dependencies and building the project.
+
