@@ -5,9 +5,9 @@ import java.util.Scanner;
 
 public class BankingApp {
     // credentails of database
-    private static final String url = "jdbc:mysql://localhost:3306/banking_system";
-    private static final String userName = "root";
-    private static final String password = "H@rsh@29";
+    private static final String url = "";
+    private static final String userName = "";
+    private static final String password = "";
 
     public static void main(String[] args) {
         try {
